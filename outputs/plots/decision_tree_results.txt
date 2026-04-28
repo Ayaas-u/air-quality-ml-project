@@ -1,0 +1,13 @@
+Accuracy: 0.902
+
+Classification Report:
+              precision    recall  f1-score   support
+
+        Good       1.00      0.98      0.99       400
+   Hazardous       0.83      0.72      0.77       100
+    Moderate       0.89      0.93      0.91       300
+        Poor       0.77      0.80      0.78       200
+
+    accuracy                           0.90      1000
+   macro avg       0.87      0.86      0.86      1000
+weighted avg       0.90      0.90      0.90      1000
