@@ -1,4 +1,4 @@
 Model,AUC Score
 Logistic Regression,0.9911772817460318
 Decision Tree,0.9721129464285714
-MLP Neural Network,0.9938526289682541
+MLP Neural Network,0.9937686259920635
